@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently learning Javascript!
+📫 How to reach me: ml227cu@student.lnu.se
 <!--
 **MaxLindquistLnu/MaxLindquistLnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
